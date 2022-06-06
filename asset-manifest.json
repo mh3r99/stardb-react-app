@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stardb-react-app/static/css/main.e906bc80.css",
+    "main.js": "/stardb-react-app/static/js/main.be95572b.js",
+    "index.html": "/stardb-react-app/index.html",
+    "main.e906bc80.css.map": "/stardb-react-app/static/css/main.e906bc80.css.map",
+    "main.be95572b.js.map": "/stardb-react-app/static/js/main.be95572b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e906bc80.css",
+    "static/js/main.be95572b.js"
+  ]
+}
